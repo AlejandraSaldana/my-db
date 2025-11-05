@@ -10,7 +10,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ghcr.io/AlejandraSaldana/my-db
+  IMAGE_NAME: ghcr.io/alejandrasaldana/my-db
 
 jobs:
   build:
